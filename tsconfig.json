@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "experimentalDecorators": true,
+    "inlineSourceMap": true,
+    "inlineSources": true,
+    "jsx": "react",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "outDir": "build",
+    "removeComments": false,
+    "skipLibCheck": true,
+    "stripInternal": true,
+    "target": "es5"
+  },
+  "exclude": [
+    "build",
+    "dist",
+    "node_modules"
+  ]
+}

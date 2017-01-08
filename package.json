@@ -1,0 +1,27 @@
+{
+  "name": "typescriptStarter",
+  "version": "1.0.0",
+  "description": "A starter typescript project",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:mkodiak/typescriptStarter.git",
+    "type": "git"
+  },
+  "author": "Michael Kodiak <mkodiak@palantir.com>",
+  "license": "MIT",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "es6-shim": "^0.35.2",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "react": "^15.4.2",
+    "react-addons-test-utils": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "tslint": "^4.3.1",
+    "tslint-react": "^2.2.0",
+    "typescript": "^2.1.4",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
