@@ -12,14 +12,6 @@
             "cwd": "${workspaceRoot}",
             "outFiles": ["${workspaceRoot}/build/*"],
             "sourceMaps": true
-        },
-        {
-            "type": "node",
-            "request": "attach",
-            "name": "Attach to Process",
-            "port": 5858,
-            "outFiles": ["${workspaceRoot}/build/"],
-            "sourceMaps": true
         }
     ]
 }
