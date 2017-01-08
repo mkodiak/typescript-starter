@@ -12,11 +12,13 @@
   "dependencies": {
     "classnames": "^2.2.5",
     "es6-shim": "^0.35.2",
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "node": "^0.0.0"
   },
   "devDependencies": {
     "@types/classnames": "^0.0.32",
     "@types/lodash": "^4.14.47",
+    "@types/node": "^6.0.58",
     "@types/react": "^0.0.0",
     "react": "^15.4.2",
     "react-addons-test-utils": "^15.4.2",
