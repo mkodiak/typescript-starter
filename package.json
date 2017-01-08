@@ -2,7 +2,7 @@
   "name": "typescriptStarter",
   "version": "1.0.0",
   "description": "A starter typescript project",
-  "main": "index.js",
+  "main": "app.js",
   "repository": {
     "url": "git@github.com:mkodiak/typescriptStarter.git",
     "type": "git"
